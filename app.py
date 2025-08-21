@@ -1,5 +1,4 @@
 # app.py
-# A simplified, single-file Streamlit portfolio.
 
 import streamlit as st
 from streamlit_option_menu import option_menu
