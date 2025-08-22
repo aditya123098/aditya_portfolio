@@ -7,7 +7,7 @@ import base64
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="Rohan Verma | AI & ML Portfolio",
+    page_title="ADITYA THAKUR| AI & ML Portfolio",
     page_icon="🤖",
     layout="wide",
 )
@@ -110,7 +110,7 @@ SKILLS = {
         "Docker",
         "Git",
         "GitHub",
-        'PowerBI'
+        "deep learning"
         
     ]
 }
@@ -120,12 +120,12 @@ SKILLS = {
 # --- SIDEBAR ---
 with st.sidebar:
     try:
-        profile_pic = Image.open("assets/profile_picture.png")
+        profile_pic = Image.open("assets/profile_picture.jpg")
         st.image(profile_pic, width=200)
     except FileNotFoundError:
         st.error("Profile picture not found.")
 
-    st.title("Rohan Verma")
+    st.title("ADITYA THAKUR")
     st.write("Aspiring AI Engineer | Data Scientist")
     
     try:
@@ -145,7 +145,7 @@ with st.sidebar:
     selected = option_menu(
         menu_title=None,
         options=["About", "Projects", "Skills", "Certifications", "Contact"],
-        icons=["person", "code-slash", "bar-chart", "patch-check", "envelope"],
+        icons=["person", "code-slash", "batch-chart" ,"patch-check", "envelope"],
         default_index=0,
     )
 
@@ -160,7 +160,7 @@ if selected == "About":
     
     st.header("Crafting Intelligent Solutions with Data and AI")
     st.write("""
-👋 👋 Hi, I'm Rohan Verma, a recent graduate from DAV University with a GPA of 8.4+. I'm passionate about AI and Data Science and currently looking forward to any opportunities. I enjoy transforming complex datasets into intelligent, automated systems that solve real-world challenges. This portfolio showcases my projects, skills, and certifications. Explore and feel free to connect with me!
+👋 👋 Hi, I'm aditya thakur.  I'm passionate about AI and Data Science and currently looking forward to any opportunities. I enjoy transforming complex datasets into intelligent, automated systems that solve real-world challenges. This portfolio showcases my projects, skills, and certifications. Explore and feel free to connect with me!
     """)
     st.subheader("Connect with me:")
     st.markdown(
