@@ -1,4 +1,4 @@
-# Rohan Verma | AI & ML Portfolio
+# aditya thakur| AI & ML Portfolio
 
 Welcome to my personal portfolio built using **Streamlit**! This app showcases my projects, skills, certifications, and ways to contact me.
 
@@ -6,7 +6,7 @@ Welcome to my personal portfolio built using **Streamlit**! This app showcases m
 
 ## About Me
 
-👋 Hi, I'm **Rohan Verma**, a recent graduate from **DAV University** with a GPA of 8.4+.
+👋 Hi, I'm **aditya thakur**.
 I’m passionate about **AI, Machine Learning, and Data Science**. I enjoy transforming complex datasets into intelligent, automated systems that solve real-world challenges.
 
 ---
