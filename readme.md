@@ -1,22 +1,22 @@
-# aditya thakur| AI & ML Portfolio
+# Aditya Thakur | AI & ML Portfolio
 
-Welcome to my personal portfolio built using **Streamlit**! This app showcases my projects, skills, certifications, and ways to contact me.
+Welcome to my personal portfolio built using **Streamlit**! This app showcases my experience, projects, skills, and ways to contact me.
 
 ---
 
 ## About Me
 
-👋 Hi, I'm **aditya thakur**.
-I’m passionate about **AI, Machine Learning, and Data Science**. I enjoy transforming complex datasets into intelligent, automated systems that solve real-world challenges.
+👋 Hi, I'm **Aditya Thakur**.
+I am an AI Engineer with hands-on experience building and deploying LLM-based applications, Retrieval-Augmented Generation (RAG) pipelines, and NLP solutions.
 
 ---
 
 ## Portfolio Features
 
-- **About Section:** Learn about me and connect via LinkedIn, GitHub, or email.
-- **Projects:** Detailed descriptions of my **Text Transformer** and **Movie Recommender System** projects.
-- **Skills:** Technical skills in AI, ML, NLP, Python, and more.
-- **Certifications:** Links to my official certificates.
+- **About Section:** Learn about my background and connect via LinkedIn, GitHub, or email.
+- **Experience & Education:** My professional experience and academic background.
+- **Projects:** Detailed descriptions of my projects including **PDF Q&A RAG Application**, **YouTube Q&A RAG Application**, and **Indian Cybercrime Legal RAG Assistant**.
+- **Skills:** Technical skills across LLM & AI Frameworks, ML/DL Frameworks, Vector Databases, Deployment, and more.
 - **Contact:** Get in touch via LinkedIn, GitHub, or email.
 
 ---
@@ -24,25 +24,25 @@ I’m passionate about **AI, Machine Learning, and Data Science**. I enjoy trans
 ## Installation (Optional for local testing)
 
 1. Clone this repository:
-   ```
+   ```bash
    git clone <repository-link>
    cd your-portfolio
    ```
 
 2. Create a virtual environment:
-   ```
+   ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate     # Windows
    ```
 
 3. Install dependencies:
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
 
 4. Run the Streamlit app:
-   ```
+   ```bash
    streamlit run app.py
    ```
 
@@ -56,7 +56,6 @@ This portfolio can be deployed directly to **[Streamlit Cloud](https://streamlit
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
-- **Email:** youremail@gmail.com
-
+- **LinkedIn:** [Aditya Thakur](https://www.linkedin.com/in/aditya-thakur-735110258/)
+- **GitHub:** [@aditya123098](https://github.com/aditya123098)
+- **Email:** adityathakur012321@gmail.com
