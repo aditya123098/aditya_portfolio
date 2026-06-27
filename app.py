@@ -178,7 +178,7 @@ I have a demonstrated ability to architect end-to-end AI systems from data inges
             <a href="https://github.com/aditya123098" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40">
             </a>
-            <a href="mailto:adityathakur012321@gmail.com" target="_blank">
+            <a href="mailto:adityathakur0123321@gmail.com" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40">
             </a>
         </div>
@@ -250,7 +250,7 @@ elif selected == "Contact":
         {
             "platform": "Email",
             "icon": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
-            "link": "mailto:adityathakur012321@gmail.com"
+            "link": "mailto:adityathakur0123321@gmail.com"
         }
     ]
 
